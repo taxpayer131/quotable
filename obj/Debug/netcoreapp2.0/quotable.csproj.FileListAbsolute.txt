@@ -1,0 +1,10 @@
+c:\Users\Admin2\source\repos\quotable\bin\Debug\netcoreapp2.0\quotable.deps.json
+c:\Users\Admin2\source\repos\quotable\bin\Debug\netcoreapp2.0\quotable.runtimeconfig.json
+c:\Users\Admin2\source\repos\quotable\bin\Debug\netcoreapp2.0\quotable.runtimeconfig.dev.json
+c:\Users\Admin2\source\repos\quotable\bin\Debug\netcoreapp2.0\quotable.dll
+c:\Users\Admin2\source\repos\quotable\bin\Debug\netcoreapp2.0\quotable.pdb
+c:\Users\Admin2\source\repos\quotable\obj\Debug\netcoreapp2.0\quotable.csproj.CoreCompileInputs.cache
+c:\Users\Admin2\source\repos\quotable\obj\Debug\netcoreapp2.0\quotable.AssemblyInfoInputs.cache
+c:\Users\Admin2\source\repos\quotable\obj\Debug\netcoreapp2.0\quotable.AssemblyInfo.cs
+c:\Users\Admin2\source\repos\quotable\obj\Debug\netcoreapp2.0\quotable.dll
+c:\Users\Admin2\source\repos\quotable\obj\Debug\netcoreapp2.0\quotable.pdb
